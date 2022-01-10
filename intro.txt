@@ -4,3 +4,5 @@
 git config --global user.email "CORREO@gmail.com"
 git config --global user.name “usuario”
 
+rama 2
+
