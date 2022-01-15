@@ -1,8 +1,8 @@
 -CONFIGURACION
 
 
-git config --global user.email "CORREO@gmail.com"
-git config --global user.name “usuario”
+git config --global user.email "emiliano.veloso@gmail.com"
+git config --global user.name "eveloso-src"
 
 rama 2
 
